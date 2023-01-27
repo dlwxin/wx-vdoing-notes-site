@@ -1,3 +1,3 @@
-# wx-vdoing-notes-site
+# wx-notes-vdoing-site
 
-Deploy wx-vdoing-notes to GitHub Pages
+Deploy wx-notes-vdoing to GitHub Pages
